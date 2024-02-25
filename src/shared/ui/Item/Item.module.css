@@ -1,0 +1,21 @@
+.itemRow {
+  border: 2px solid #3f83f8;
+  background-color: #ff0800;
+}
+
+.itemCell {
+  padding: 10px;
+}
+.stickyTable {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  z-index: 1;
+}
+
+.stickyTable th {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  z-index: 2;
+}
